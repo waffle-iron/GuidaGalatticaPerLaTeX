@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/R-and-LaTeX/GuidaGalatticaPerLaTeX.png?label=ready&title=Ready)](https://waffle.io/R-and-LaTeX/GuidaGalatticaPerLaTeX?utm_source=badge)
 Guida Galattica Per LaTeX
 =========================
 
